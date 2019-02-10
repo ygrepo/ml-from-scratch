@@ -4,4 +4,5 @@
    * Logistic Regression
    * Linear Regression
    * Softmax
+   * SVM
    * Beam Search
